@@ -49,7 +49,8 @@ Make sure that you have a reasonably recent version.
 The snippets are to be pasted in your terminal( Without '$' sign).
 If you are [Mac](https://docs.docker.com/docker-for-mac/install/) or a
 [Windows](https://docs.docker.com/docker-for-windows/install/#download-docker-for-windows)
-user, follow the instructions from the respective link provided. It should be straightforward.
+user, follow the instructions from the respective link provided. It should be straightforward. 
+Note that Windows has a "flag exposure" issue. So, expect some troubleshooting from project 5 and onwards. There is no known workaround at this time. I suggest working on testium server. Email Prof. Ram for details.
 
 1. Update apt package:
 
